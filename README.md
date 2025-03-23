@@ -8,7 +8,7 @@ Repositorio de Laboratorio de Software y Lenguajes Profesor Ingeniero Tulian
 
 Aquí puedes ver mi foto de perfil:
 
-![Mi Foto de Perfil](images/mi-foto.jpg)
+![Mi Foto de Perfil](/mi-foto.jpg)
 
 ## Datos personales
 
