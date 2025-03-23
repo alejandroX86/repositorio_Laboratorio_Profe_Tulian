@@ -15,7 +15,7 @@ Aquí puedes ver mi foto de perfil:
 - **Nombre:** Tu Nombre  
 - **Ubicación:** Tu Ciudad, País  
 - **Correo electrónico:** avrmicrorobot@gmail.com.com  
-- **LinkedIn:** [Perfil en LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
+- **LinkedIn:** [Perfil en LinkedIn](https://www.linkedin.com/in/omar-alejandro-bazar/)  
 - **GitHub:** [Mi Perfil en GitHub](https://github.com/alejandroX86)
 
 ## Proyectos destacados
